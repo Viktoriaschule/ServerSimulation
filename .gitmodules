@@ -1,0 +1,3 @@
+[submodule "src/Server"]
+	path = src/Server
+	url = https://github.com/Viktoriaschule/Server.git

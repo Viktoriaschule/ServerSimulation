@@ -2,7 +2,7 @@
 ## Setup
 1. Create the `config.json` file with all attributes of the `config.json.example` file.
 2. Init the `Server` git submodule:
-    - `git submodule add https://github.com/Viktoriaschule/Server.git src/Server`
+    - `git submodule update --init`
 
 ## Usage
 1. Check if the `Server` module is the newest version: `git pull`

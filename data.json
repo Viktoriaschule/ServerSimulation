@@ -1,6 +1,26 @@
 {
     "substitutionPlan": [
-        "2020-02-20T11:41:00.000Z",
-        "2020-03-03T11:04:00.000Z"
+        {
+            "date": "2020-03-06T04:00:00.000Z",
+            "updated": "2020-03-05T12:36:00.000Z"
+        },
+        {
+            "date": "2020-04-21T03:00:00.000Z",
+            "updated": "2020-03-19T10:56:00.000Z"
+        }
+    ],
+    "ldap": [
+        {
+            "username": "sta",
+            "password": "test",
+            "grade": "q1",
+            "isTeacher": true
+        },
+        {
+            "username": "test",
+            "password": "test2",
+            "grade": "6a",
+            "isTeacher": false
+        }
     ]
 }
